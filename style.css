@@ -1,0 +1,9 @@
+table{
+    width:100%;
+    border-collapse:collapse;
+    background-repeat: no-repeat;
+  }
+  img{
+    width:100px;
+    height:100px;
+  }
